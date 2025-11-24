@@ -1,1 +1,1 @@
-THIS IS MY README FILE
+["first repository", "GitHub learning task"]
